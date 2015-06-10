@@ -5,3 +5,6 @@ def star(pa):
 		print("*"+(pa-2)*" "+"*")
 		print("*"*pa)
 star(5)
+
+
+print("update")
