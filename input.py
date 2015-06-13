@@ -1,0 +1,5 @@
+name = input("enter your name ")
+print(name)
+name1= int(input("enter your age"))
+print(name1)
+lo=input()
